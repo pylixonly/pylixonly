@@ -1,6 +1,6 @@
-<h1>Hey there, I'm Amsyar! 👋</h1>
+### Hello there 👋!<br/>
 
-I'm a 16-year-old who enjoys programming small things as a hobby. I have plenty of experience in C# and Node.js (JS/TS) yet I am still far from being an expert. I am currently focusing on front-end development, as well as contributing to open source projects whenever I can. 
+My name is **Amsyar** *(pronounced "ahm-syar")*, although you may know me by my online handles, "pylix" or "slyde". I'm just a teenager who likes to program for fun. I've played around with C# and Node.js (JS/TS) quite a bit, but I'm definitely not an expert yet. I am currently focusing on front-end development, as well as contributing to open source projects whenever I can. 
 
 ### Languages and Tools:
 
@@ -8,7 +8,7 @@ I'm a 16-year-old who enjoys programming small things as a hobby. I have plenty 
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png" height="40px"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_48x48.png" height="40px"/></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_48x48.png" /></a>
-<a href="https://html.com/" target="_blank"><img align="left" alt="HTML" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_48x48.png" height="40px" /></a>
+<a href="https://html.com/" target="_blank">
 
 <br />
 <br />
