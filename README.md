@@ -1,6 +1,6 @@
 ### Hello there 👋!<br/>
 
-- My name is **Pylix**, or you may know me by my real name, Amsyar.
+- My name is **Pylix**.
 - I like to do random stuff ever, like modding Discord apps and video games.
 - I'm turning 18 this year, and my birthday is December 23rd.
 - I'm also currently learning 日本語 (Japanese), totally while not having a broken English or anything
