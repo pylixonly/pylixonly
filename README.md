@@ -1,9 +1,8 @@
 ### Hello there 👋!<br/>
 
 - My name is **Pylix**.
-- I like to do random stuff ever, like modding Discord apps and video games.
+- I like to do random stuff ever, like modding apps and video games.
 - I'm turning 18 this year, and my birthday is December 23rd.
-- I'm also currently learning 日本語 (Japanese), totally while not having a broken English or anything
 - A certified professional stupid beyond repair, whatever you call it!
 
   
