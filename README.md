@@ -2,7 +2,6 @@
 
 - My name is **Pylix**.
 - I like to do random stuff ever, like modding apps and video games.
-- I'm turning 18 this year, and my birthday is December 23rd.
 - A certified professional stupid beyond repair, whatever you call it!
 
   
