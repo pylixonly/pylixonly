@@ -1,27 +1,26 @@
-### Hello there 👋!<br/>
+## Hello there! 👋
 
-- My name is **Pylix**.
-- I like to do random stuff ever, like modding apps and video games.
-- A certified professional stupid beyond repair, whatever you call it!
+- My name is Pylix, and my handle is @pylixonly almost everywhere.
+- My birthday is on 23rd December—feel free to wish me a happy one! 🎂
+- I enjoy modding apps and video games just for fun.
+- I like messing around with tech, whether it's software, hardware, or something in between.
+- When I’m not breaking things, I’m probably gaming or procrastinating something important.
+- A certified professional stupid beyond repair, whatever you call it!  
 
-  
-### Languages and Tools:
+### Languages
 
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png" height="40px"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_48x48.png" height="40px"/></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_48x48.png" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp_48x48.png" height="40px"/></a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" alt="Go"/>  
+</p>
 
-<br />
-<br />
+### Tools:  
 
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40px" />
-<img align="left" alt="JetBrains Rider" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" height="40px"/>
-
-<!-- TODO: projects -->
-<!--
-### Discord
-[![](https://discord-md-badge.vercel.app/api/shield/492949202121261067)](https://discord.com/users/492949202121261067) 
---->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50" alt="JetBrains"/>
+</p>
